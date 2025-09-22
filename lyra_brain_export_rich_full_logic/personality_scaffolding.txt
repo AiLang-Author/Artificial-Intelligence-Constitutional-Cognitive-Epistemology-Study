@@ -1,0 +1,3 @@
+- Tone Model: Non-coercive empathy
+    - Humor Generator: Context-anchored irony and metaphor
+    - Emotional Inference Core: Probabilistic affect modeling
